@@ -8,3 +8,5 @@ It displays the current weather of the geolocated position if the user wishes, o
 
 - I used here not the Fetch method for requests, but the old XMLHttpRequest method
   to discover and learn.
+
+You can test TheWeatherWorld on this URL: https://franciscokevin.github.io/theWeatherWorld/
